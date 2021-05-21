@@ -16,6 +16,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_runner","path":"objects/obj_runner/obj_runner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":70.0,"y":270.0,"resourceVersion":"1.0","name":"inst_2D850DB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_obstacle_spawner","path":"objects/obj_obstacle_spawner/obj_obstacle_spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-20.0,"resourceVersion":"1.0","name":"inst_6E6CEF80","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"cheat_manager","path":"objects/cheat_manager/cheat_manager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":20.0,"y":-20.0,"resourceVersion":"1.0","name":"inst_24C5E575","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"gameplay_manager","path":"objects/gameplay_manager/gameplay_manager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":40.0,"y":-20.0,"resourceVersion":"1.0","name":"inst_C927616","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":10,"gridY":10,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -30,6 +31,7 @@
     {"name":"inst_2D850DB","path":"rooms/rm_level/rm_level.yy",},
     {"name":"inst_7D1A8C81","path":"rooms/rm_level/rm_level.yy",},
     {"name":"inst_6E6CEF80","path":"rooms/rm_level/rm_level.yy",},
+    {"name":"inst_24C5E575","path":"rooms/rm_level/rm_level.yy",},
     {"name":"inst_C927616","path":"rooms/rm_level/rm_level.yy",},
   ],
   "inheritCreationOrder": false,
@@ -54,8 +56,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "YouTube Endless Runner Public",
+    "path": "YouTube Endless Runner Public.yyp",
   },
   "resourceVersion": "1.0",
   "name": "rm_level",
