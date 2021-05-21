@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_square",
-    "path": "sprites/spr_square/spr_square.yy",
+    "name": "spr_runner_shadow",
+    "path": "sprites/spr_runner_shadow/spr_runner_shadow.yy",
   },
   "solid": false,
   "visible": true,
