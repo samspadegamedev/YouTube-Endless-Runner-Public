@@ -3,4 +3,4 @@
 // Inherit the parent event
 event_inherited();
 
-hsp = choose(-8, -10);
+hsp = choose(-1, -1.5);

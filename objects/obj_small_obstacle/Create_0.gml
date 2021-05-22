@@ -3,4 +3,5 @@
 // Inherit the parent event
 event_inherited();
 
-hsp = -5;
+image_index = irandom_range(0, 3);
+hsp = -1;

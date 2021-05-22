@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_horizontal_rectangle",
-    "path": "sprites/spr_horizontal_rectangle/spr_horizontal_rectangle.yy",
+    "name": "spr_enemy_a",
+    "path": "sprites/spr_enemy_a/spr_enemy_a.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_rectangle",
-    "path": "sprites/spr_rectangle/spr_rectangle.yy",
+    "name": "spr_cactus_small",
+    "path": "sprites/spr_cactus_small/spr_cactus_small.yy",
   },
   "solid": false,
   "visible": true,
