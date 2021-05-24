@@ -81,8 +81,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Art",
-    "path": "folders/Art.yy",
+    "name": "Paper Pixels' Art",
+    "path": "folders/Art/Paper Pixels' Art.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_clouds",

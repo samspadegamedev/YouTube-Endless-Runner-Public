@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Player Characters",
+    "path": "folders/Objects/Player Characters.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_runner",

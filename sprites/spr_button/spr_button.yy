@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Masks and Temp Sprites",
+    "path": "folders/Art/Masks and Temp Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_button",
