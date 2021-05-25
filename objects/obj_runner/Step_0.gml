@@ -7,6 +7,7 @@ var _on_ground = place_meeting(x, y + 1, solid_parent);
 //jump
 if (keyboard_check_pressed(vk_space)) && (_on_ground) {
 	vsp = jump_speed;
+	audio_play_sound(sfx_movement_jump4, 2, false);
 } else if (keyboard_check_released(vk_space)) {
 	if (vsp < (jump_speed/2)) {
 		vsp = jump_speed/2;
