@@ -2,7 +2,7 @@
 
 
 //movement
-x += hsp;
+x += global.ground_speed;
 
 
 //destroy if past leftside of room

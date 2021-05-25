@@ -1,4 +1,4 @@
-/// @description Play Button
+/// @description Start Button
 
 
 on_click = function() {

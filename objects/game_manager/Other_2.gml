@@ -1,10 +1,15 @@
 /// @description Game Manager
 
 
-//initialize variables
+//call randomize once
 randomize();
 
 
+//initialize global variables
+global.ground_speed = -1;
+global.background_speed = -0.1;
+
+//initialize high score
 global.high_score = 0;
 if (file_exists("save.txt")) {
 	ini_open("save.txt");
@@ -13,6 +18,7 @@ if (file_exists("save.txt")) {
 }
 
 
+//goto first room
 room_goto(rm_menu);
 
 

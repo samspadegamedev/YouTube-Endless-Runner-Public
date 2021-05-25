@@ -3,5 +3,5 @@
 
 alpha += 0.1;
 if (alpha >= 1.3) {
-	room_goto(rm_level);
+	room_goto(my_room);
 }

@@ -1,5 +1,7 @@
-/// @description Transition
+/// @description 
 
+// Inherit the parent event
+event_inherited();
 
-alpha = 0;
+my_room = rm_level;
 

@@ -11,6 +11,8 @@ if (game_over) && (!_prev_game_over) {
 		ini_write_real("save", "high_score", global.high_score);
 		ini_close();		
 	}
+	global.ground_speed = 0;
+	global.background_speed = 0;
 	instance_create_layer(room_width/2 + 24, room_height/2, "Buttons", obj_menu_button);
 	instance_create_layer(room_width/2 - 24, room_height/2, "Buttons", obj_retry_button);
 }

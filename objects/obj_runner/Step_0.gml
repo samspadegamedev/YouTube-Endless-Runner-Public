@@ -17,9 +17,9 @@ if (keyboard_check_pressed(vk_space)) && (_on_ground) {
 vsp += grav;
 
 if (!_on_ground) {
-	sprite_index = spr_runner_jump;
+	sprite_index = spr_runner_jumping;
 } else {
-	sprite_index = spr_runner_shadow;
+	sprite_index = spr_runner_running;
 }
 
 //verticle collision and movement

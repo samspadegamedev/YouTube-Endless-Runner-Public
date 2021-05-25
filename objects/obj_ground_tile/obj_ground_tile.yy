@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_floor_tile_a",
-    "path": "sprites/spr_floor_tile_a/spr_floor_tile_a.yy",
+    "name": "spr_floor_tile",
+    "path": "sprites/spr_floor_tile/spr_floor_tile.yy",
   },
   "solid": false,
   "visible": true,

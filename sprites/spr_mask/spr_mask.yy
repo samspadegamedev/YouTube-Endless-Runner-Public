@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Masks and Temp Sprites",
-    "path": "folders/Art/Masks and Temp Sprites.yy",
+    "name": "Masks",
+    "path": "folders/Art/Masks.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_mask",

@@ -3,6 +3,6 @@
 // Inherit the parent event
 event_inherited();
 
-hsp = -1;
+hsp = global.ground_speed;
 image_index = irandom(11);
 
