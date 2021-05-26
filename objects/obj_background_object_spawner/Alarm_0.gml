@@ -8,7 +8,7 @@ if (instance_number(obj_clouds) < 3) {
 
 
 //spawn grass
-instance_create_layer(room_width + 8, 56, "Ground", obj_grass);
+instance_create_layer(room_width + 8, global.ground_level, "Ground", obj_grass);
 
 
 //reset alarm

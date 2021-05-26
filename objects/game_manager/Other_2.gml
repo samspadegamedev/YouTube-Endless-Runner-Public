@@ -6,8 +6,7 @@ randomize();
 
 
 //initialize global variables
-global.ground_speed = -1;
-global.background_speed = -0.1;
+global.ground_level = 56;
 
 //initialize high score
 global.high_score = 0;
